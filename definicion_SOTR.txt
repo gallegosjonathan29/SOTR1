@@ -1,0 +1,11 @@
+Alumno: Jonathan Daniel Gallegos Sanlúcar
+Sistemas operativos en tiempo real.
+Un sistema operativo en tiempo real es un conjunto de elementos que administran y 
+ejecutan las tareas esenciales en una computadora, este utiliza recursos, bibliotecas 
+y un kernel.  El kernel es de vital importancia ya que es el que genera una infraestructura 
+para poder manejar el software y las bibliotecas del sistema, además de administrar el hardware 
+o recursos del sistema, el tiempo real hace referencia a sistemas más pequeños o particulares 
+donde existe una prioridad a tareas esenciales, esto es los procesos son más importantes que el 
+usuario, se utilizan en procesos dedicados como bolsa de valores, tráfico aéreo y telecomunicaciones. 
+El objetivo principal es minimizar los tiempos de respuesta de cada petición o tarea por medio de 
+algoritmos de planificación.
